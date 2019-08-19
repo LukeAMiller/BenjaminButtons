@@ -1,0 +1,37 @@
+.blue-text{
+    color:blue
+}
+.dark-mode{
+    background-color:black;
+    color:whitesmoke;
+
+}
+.Red{
+    color:red;
+}
+.Blue{
+    color:Blue;
+}
+#flex{
+    display:flex,block;
+    flex-flow: row wrap;
+    block-size: 50%;
+}
+#section1{
+    display:flex;
+    justify-content:space-between;
+    align-content: center:
+    width:50%;
+    flex-flow:row;
+}
+#article1{
+    border:solid red;
+    width: 50%;
+    height:50%;
+}
+#article2{
+    border:solid blue;
+    width:50%;
+    height:50%;
+
+}
